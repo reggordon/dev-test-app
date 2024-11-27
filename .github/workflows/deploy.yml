@@ -29,3 +29,4 @@ jobs:
           --platform managed \
           --region us-central1 \
           --allow-unauthenticated
+          --set-env-vars ALLOWED_HOST="test-service-294471701511.us-central1.run.app"
